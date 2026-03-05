@@ -1,0 +1,11 @@
+[project]
+name = "leaf-node-mcp-servers"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.135.1",
+    "mcp>=1.26.0",
+    "requests>=2.32.5",
+]
