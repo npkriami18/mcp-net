@@ -31,6 +31,7 @@
 #### Note
 
 This project is an **architecture experiment** exploring how MCP servers can form a **dynamic discovery network**.
+Techstack : FastMCP , google-adk
 
 
 ## The Idea
