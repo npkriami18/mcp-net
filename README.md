@@ -28,10 +28,9 @@
 </tr>
 </table>
 
-#### Note
+**Note** : This project is an **architecture experiment** exploring how MCP servers can form a **dynamic discovery network**.
 
-This project is an **architecture experiment** exploring how MCP servers can form a **dynamic discovery network**.
-Techstack : FastMCP , google-adk
+**Techstack** : FastMCP , google-adk .
 
 
 ## The Idea
